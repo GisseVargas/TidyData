@@ -5,8 +5,6 @@ Authors@R: c(person("Diego", "Huaraca", role = c("aut", "cre"),
                     email = "diego.huaracas@epn.edu.ec"),
              person("Gissela", "Vargas", role = "aut",
                     email = "gis.selavargas95@gmail.com"))
-Author: Diego Huaraca [aut, cre],
-Gissela Vargas [aut]
 Description: Conjunto de funciones empleadas en las distintas etapas de la construcción de un modelo de Credit Scoring y estructuración de datos.
 Depends: R (>= 3.3.2)
 Imports: data.table, dplyr, lubridate
